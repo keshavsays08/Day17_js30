@@ -1,0 +1,30 @@
+body {
+
+
+    background-image: url(https://images.pexels.com/photos/3122799/pexels-photo-3122799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    box-sizing: border-box;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #a4508b;
+    background: linear-gradient(135deg, #5e4136 0%, #fed3a3 82%, #d27b48 97%);
+    border-radius: 2rem;
+    font-family: cursive;
+}
+
+.list-item {
+    list-style: none;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+
+
+    /* Add more styling properties as needed */
+}
